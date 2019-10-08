@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/dpyzo0o/test-commit-message/compare/v1.2.0...v2.0.0) (2019-10-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* test automatic bumping
+
+### Features
+
+* test breaking change ([a5534b2](https://github.com/dpyzo0o/test-commit-message/commit/a5534b2))
+
 ## [1.2.0](https://github.com/dpyzo0o/test-commit-message/compare/v1.1.0...v1.2.0) (2019-10-08)
 
 
