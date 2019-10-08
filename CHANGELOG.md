@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/dpyzo0o/test-commit-message/compare/v1.1.0...v1.2.0) (2019-10-08)
+
+
+### Features
+
+* add new function greeting ([fc0e2f7](https://github.com/dpyzo0o/test-commit-message/commit/fc0e2f7))
+
 ## 1.1.0 (2019-10-08)
 
 
