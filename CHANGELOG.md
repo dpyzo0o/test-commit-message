@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/dpyzo0o/test-commit-message/compare/v2.0.0...v2.1.0) (2019-10-10)
+
+
+### Features
+
+* add new function hello ([0b03c24](https://github.com/dpyzo0o/test-commit-message/commit/0b03c24))
+
 ## [2.0.0](https://github.com/dpyzo0o/test-commit-message/compare/v1.2.0...v2.0.0) (2019-10-08)
 
 
