@@ -8,3 +8,7 @@ function greeting(name) {
 
 console.log(add(1, 2))
 console.log(greeting('yang'))
+
+function hello() {
+  return 'hello'
+}
