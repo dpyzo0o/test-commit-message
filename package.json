@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "commit": "commit"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +13,7 @@
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
+    "@commitlint/prompt-cli": "^8.2.0",
     "husky": "^3.0.8",
     "standard-version": "^7.0.0"
   },
